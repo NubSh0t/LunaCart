@@ -1,6 +1,6 @@
 # Luna Cart
 
-Luna Cart is a demo project showcasing a polished, single-product ecommerce storefront. It features the Luna X1 wireless headphones and is intended as a frontend UI demo, not a production shop.
+Luna Cart is a demo project showcasing a polished, single-product ecommerce storefront. It is intended as a frontend UI demo, not a production shop.
 
 ![Luna Cart storefront](frontend/src/assets/lunacart-preview.png)
 
